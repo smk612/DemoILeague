@@ -1,0 +1,6 @@
+Step 1: Import i_league.sql into your phpMyAdmin
+Step 2: Place the "ileague" folder in the /xampp/htdocs folder
+Step 3: http://localhost/ileague/index.php 
+	(http://localhost:8080/ileague/index.php)
+Step 4: Do rigourous testing. Put bugs caught in a separate file along 
+	with author-name and time-stamp and contact the author of this file.
